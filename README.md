@@ -18,10 +18,13 @@ Welcome to the LogisticRegressionKitWithGeneticAlgorithm repository! This reposi
 ## Documentation
 
 You can see the description of the implementation method in the following file:
-[Click Me](https://linktodocumentation)
+[Click Me](https://github.com/kiananvari/LogisticRegressionKit-With-GeneticAlgorithm/raw/main/Documentation.pdf)
 
 
 ## Results
 
-[Documentation](https://linktodocumentation)
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/PersianSpeechRecognition-RNN-LSTM-GRU/main/Results/1.png)
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/PersianSpeechRecognition-RNN-LSTM-GRU/main/Results/2.png)
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/PersianSpeechRecognition-RNN-LSTM-GRU/main/Results/3.png)
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/PersianSpeechRecognition-RNN-LSTM-GRU/main/Results/4.png)
 
